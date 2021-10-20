@@ -3,7 +3,9 @@
 ;	Dr. Robotnik's Mean Bean Machine Disassembly
 ;	Original game by Compile
 ;
-;	Disassembled by Devon Artmeier & RadioTails
+;	Disassembled by Ralakimus , Neto, & RadioTails
+;
+;   Last Update: 20/10/2021
 ;
 ; -----------------------------------------------------------------------------------------
 
