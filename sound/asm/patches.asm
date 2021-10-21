@@ -1,11 +1,3 @@
-; --------------------------------------------------------------
-;
-;	Dr. Robotnik's Mean Bean Machine Disassembly
-;	Original game by Compile
-;
-;	Disassembled by Devon Artmeier
-;
-; --------------------------------------------------------------
 
 FMInstruments:
 	; Patch 00
