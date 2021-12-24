@@ -1,0 +1,3 @@
+									
+	CHECKSUM_TEXT "CHECKSUM IS WRONG."
+	
