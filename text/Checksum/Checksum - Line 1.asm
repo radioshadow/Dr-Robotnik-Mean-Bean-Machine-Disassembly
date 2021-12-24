@@ -1,3 +1,0 @@
-									
-	CHECKSUM_TEXT "WARNING."
-	
